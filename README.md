@@ -1,6 +1,6 @@
 # Лучшие Проекты Курса DLS
 
-![Projects](https://img.shields.io/badge/Проектов%20отобрано-19-blue)
+![Projects](https://img.shields.io/badge/Проектов%20отобрано-21-blue)
 ![Semesters](https://img.shields.io/badge/Потоков-1-lightblue)
 ![Parts](https://img.shields.io/badge/Частей%20курса-2-purple)
 
@@ -10,13 +10,15 @@
 </div>
 
 
-### Аннотация
+## Аннотация
 
 Хранилище лучших студенческих проектов курса Deep Learning School (DLS). 
 Здесь собраны работы, выделившиеся качеством реализации, глубиной 
 исследования и оформлением репозитория.
 
-### Проекты (по потокам)
+> Авторы лучших проектов получают подарочный мерч Deep Learning School 
+
+## Проекты (по потокам)
 
 <div align="center">
 
